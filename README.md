@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⚡Make it fast
 
 One formulation of an agile way of building software, often misattributed to Kent
 Beck, is:
