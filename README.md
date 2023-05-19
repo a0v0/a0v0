@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!!!;Please+wait%2C+refactoring+life...." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Life has no remote...;Get up and...;CHANGE it YOURSELF" alt="Typing SVG" /></a>
 </p>
 
 ## Projects
