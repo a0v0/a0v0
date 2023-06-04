@@ -12,8 +12,8 @@
 </p>
 
 ## Projects
-- [avtoolz.com](https://avtoolz.com): Utitlity Site
-- [Ball-O-Mania](https://play.google.com/store/apps/details?id=com.starland.ballomania): Game
+- [avtoolz.com](https://avtoolz.com)
+- [Ball-O-Mania](https://play.google.com/store/apps/details?id=com.starland.ballomania)
 
 ## Favorite Tools
 
