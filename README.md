@@ -15,11 +15,14 @@
 - [avtoolz.com](https://avtoolz.com)
 - [Ball-O-Mania](https://play.google.com/store/apps/details?id=com.starland.ballomania)
 
-## Favorite Tools
+## Tools
 
 <!-- Shields from https://github.com/progfay/shields-with-icon -->
 
-
+![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
+![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
+![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
+![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=FFFFFF&label=)
 ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
 ![CSS Modules](https://img.shields.io/static/v1?style=for-the-badge&message=CSS+Modules&color=000000&logo=CSS+Modules&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -54,7 +57,8 @@
 ![ProtonVPN](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonVPN&color=56B366&logo=ProtonVPN&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![AdGuard](https://img.shields.io/static/v1?style=for-the-badge&message=AdGuard&color=222222&logo=AdGuard&logoColor=68BC71&label=)
-
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
+![VLC media player](https://img.shields.io/static/v1?style=for-the-badge&message=VLC+media+player&color=222222&logo=VLC+media+player&logoColor=FF8800&label=)
 ## Streak stats
 
 <p align="center">
