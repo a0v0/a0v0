@@ -20,6 +20,34 @@
 - Minor
   - [Personal Portfolio page](https://a0v0.github.io/html/portfolio.html)
 
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/a0v0/count.svg?"  />
+</div>
+
+###
+
+
+<p align="center">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aV's streak" src="https://streak-stats.demolab.com?user=a0v0&theme=tokyonight"/>
+</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-pflqkr13b-loda-7hellml.vercel.app/api?username=a0v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats-pflqkr13b-loda-7hellml.vercel.app/api/top-langs?username=a0v0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/a0v0/a0v0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
 ## Tools
 
 <!-- Shields from https://github.com/progfay/shields-with-icon -->
@@ -62,31 +90,4 @@
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![AdGuard](https://img.shields.io/static/v1?style=for-the-badge&message=AdGuard&color=222222&logo=AdGuard&logoColor=68BC71&label=)
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
-![VLC media player](https://img.shields.io/static/v1?style=for-the-badge&message=VLC+media+player&color=222222&logo=VLC+media+player&logoColor=FF8800&label=)## Streak stats
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/a0v0/count.svg?"  />
-</div>
-
-###
-
-
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aV's streak" src="https://streak-stats.demolab.com?user=a0v0&theme=tokyonight"/>
-</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-pflqkr13b-loda-7hellml.vercel.app/api?username=a0v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-  <img src="https://github-readme-stats-pflqkr13b-loda-7hellml.vercel.app/api/top-langs?username=a0v0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
-<img src="https://raw.githubusercontent.com/a0v0/a0v0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![VLC media player](https://img.shields.io/static/v1?style=for-the-badge&message=VLC+media+player&color=222222&logo=VLC+media+player&logoColor=FF8800&label=)
