@@ -62,15 +62,31 @@
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![AdGuard](https://img.shields.io/static/v1?style=for-the-badge&message=AdGuard&color=222222&logo=AdGuard&logoColor=68BC71&label=)
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
-![VLC media player](https://img.shields.io/static/v1?style=for-the-badge&message=VLC+media+player&color=222222&logo=VLC+media+player&logoColor=FF8800&label=)
-## Streak stats
+![VLC media player](https://img.shields.io/static/v1?style=for-the-badge&message=VLC+media+player&color=222222&logo=VLC+media+player&logoColor=FF8800&label=)## Streak stats
+
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/a0v0/count.svg?"  />
+</div>
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/qnh8lfwssejp4gif3zzlzwxsa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qnh8lfwssejp4gif3zzlzwxsa&unique={true|1|on|yes}" alt="Spotify recently played"  />
+  </a>
+</div>
+
 
 <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aV's streak" src="https://streak-stats.demolab.com?user=a0v0&theme=dracula&hide_border=true&locale=hi&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a0v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a0v0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## Github stats
 
-<img alt="a0v0's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=a0v0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
+<img src="https://raw.githubusercontent.com/a0v0/a0v0/output/snake.svg" alt="Snake animation" />
