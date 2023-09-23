@@ -17,7 +17,7 @@
   - [avtoolz.com](https://avtoolz.com)
   - [Ball-O-Mania](https://play.google.com/store/apps/details?id=com.starland.ballomania)
   - [GDCut](https://github.com/a0v0/gdCut)
-- Minor Projects
+- Minor
   - [Personal Portfolio page](https://a0v0.github.io/html/portfolio.html)
 
 ## Tools
