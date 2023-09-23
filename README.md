@@ -89,4 +89,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/a0v0/a0v0/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/a0v0/a0v0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
