@@ -12,6 +12,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Life has no remote...;Get up and...;CHANGE it YOURSELF" alt="Typing SVG" /></a>
 </p>
 
+
+<img src="https://raw.githubusercontent.com/a0v0/a0v0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 ## Projects
 - Full Projects
   - [avtoolz.com](https://avtoolz.com)
@@ -43,9 +46,6 @@
 </div>
 
 
-###
-
-<img src="https://raw.githubusercontent.com/a0v0/a0v0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 ## Tools
