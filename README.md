@@ -4,7 +4,8 @@
 </center> -->
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/62926341/194707815-e52f4f22-3651-41da-a93f-8276c402bdf0.gif"  style={{ textAlign: "center", marginBottom: "30px" }} />
+<!--   <img  src="https://user-images.githubusercontent.com/62926341/194707815-e52f4f22-3651-41da-a93f-8276c402bdf0.gif"  style={{ textAlign: "center", marginBottom: "30px" }} /> -->
+  <img  src="https://github.githubassets.com/images/mona-loading-dark.gif"  style={{ textAlign: "center", marginBottom: "30px" }} />
 </p>
 
 <p align="center">
