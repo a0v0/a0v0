@@ -15,7 +15,7 @@
 ## Projects
 - Full Projects
   - [avtoolz.com](https://avtoolz.com)
-  - [Ball-O-Mania](https://play.google.com/store/apps/details?id=com.starland.ballomania)
+  - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
   - [GDCut](https://github.com/a0v0/gdCut)
 - Minor
   - [Personal Portfolio page](https://a0v0.github.io/html/portfolio.html)
