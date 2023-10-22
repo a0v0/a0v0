@@ -21,7 +21,7 @@
   - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
   - [GDCut](https://github.com/a0v0/gdCut)
 - Minor
-  - [Personal Portfolio page](https://a0v0.github.io/src/html/portfolio.html)
+  - [HTML Web Pages](https://a0v0.github.io)
 
 
 <br clear="both">
