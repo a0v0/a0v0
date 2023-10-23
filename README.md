@@ -21,7 +21,7 @@
   - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
   - [GDCut](https://github.com/a0v0/gdCut)
 - Minor
-  - [HTML Web Manifest](https://html-lab-av.vercel.app/)
+  - [HTML Web Pages](https://html-lab-av.vercel.app)
 
 
 <br clear="both">
