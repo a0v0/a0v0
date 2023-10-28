@@ -20,6 +20,7 @@
   - [avtoolz.com](https://avtoolz.com)
   - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
   - [GDCut](https://github.com/a0v0/gdCut)
+  - [Aucto](https://aucto-site.vercel.app/)
 - Minor
   - [HTML Web Pages](https://html-lab-av.vercel.app)
 
