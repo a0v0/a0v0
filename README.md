@@ -16,14 +16,14 @@
 <img src="https://raw.githubusercontent.com/a0v0/a0v0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ## Projects
-- Full Projects
-  - [avtoolz.com](https://avtoolz.com)
+### Major 
+  - [avtoolz.com](https://github.com/a0v0/avtoolz)
   - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
   - [GDCut](https://github.com/a0v0/gdCut)
-  - [Aucto](https://aucto-site.vercel.app/)
-- Minor
-  - [HTML Web Pages](https://html-lab-av.vercel.app)
-
+  - [Aucto](https://github.com/a0v0/aucto)
+### Minor
+  - [HTML Lab](https://github.com/a0v0/html-lab)
+  - [Python Lab](https://github.com/a0v0/python-lab)
 
 <br clear="both">
 
