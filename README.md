@@ -24,6 +24,8 @@
 ### Minor
   - [HTML Lab](https://github.com/a0v0/html-lab)
   - [Python Lab](https://github.com/a0v0/python-lab)
+  - [Water Availability Site](https://github.com/a0v0/water-availability)
+  
 
 <br clear="both">
 
