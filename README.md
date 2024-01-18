@@ -17,7 +17,7 @@
 
 ## Projects
 ### Major 
-  - [avtoolz.com](https://github.com/a0v0/avtoolz)
+  - [avtoolz.com](https://avtoolz.com)
   - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
   - [GDCut](https://github.com/a0v0/gdCut)
   - [Aucto](https://github.com/a0v0/aucto)
