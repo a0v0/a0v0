@@ -8,7 +8,7 @@
   - [avtoolz.com](https://avtoolz.com)
   - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
   - [GDCut](https://github.com/a0v0/gdCut)
-  - [Aucto](https://github.com/a0v0/aucto)
-  - [Water Availability Webpage](https://github.com/a0v0/water-availability)
+  - [Online Auction Website (aucto)](https://github.com/a0v0/aucto)
+  - [Water Availability Demo](https://github.com/a0v0/water-availability)
 - 🧺 Programming specific tools: [Python](https://www.python.org/), [Go](https://golang.org/), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [Reactjs](https://reactjs.org/), [Nextjs](https://nextjs.org/),
 - 🛠️ Other Tools : [Obsidian](https://obsidian.md/), [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701), [Gitpod](https://www.gitpod.io/), [Bitwarden](https://bitwarden.com/), [Photopea](https://www.photopea.com/), [Visual Studio Code](https://code.visualstudio.com/), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Docker](https://www.docker.com/)
