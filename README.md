@@ -7,7 +7,7 @@
   - [aVToolz](https://github.com/avtoolz/avtoolz)
   - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
   - [GDCut](https://github.com/a0v0/gdCut)
-  - [Online Auction Website (aucto)](https://github.com/a0v0/aucto)
   - [Water Availability Demo](https://github.com/a0v0/water-availability)
   - [Pollution Free Zone Finder](https://github.com/a0v0/pollution-free-zone-finder)
+  - [aucto](https://github.com/a0v0/aucto)
 - Technical Skills: [Python](https://www.python.org/), [Go](https://golang.org/), [Nextjs](https://nextjs.org/), [Flutter](https://flutter.dev/)
