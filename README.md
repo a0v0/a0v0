@@ -5,7 +5,7 @@
 </p>
 
 - 🗿 [CV](/#) (WIP)
-- 🏡 [Earth](https://en.wikipedia.org/wiki/Earth), [LinkedIn](https://www.linkedin.com/in/anubhav-mahur/) and [GitHub](https://github.com/a0v0/a0v0)
+- 🏡 [Earth](https://en.wikipedia.org/wiki/Earth), [LinkedIn](https://www.linkedin.com/in/anubhav-mahur/), [GitLab](https://gitlab.com/a0v0) and [GitHub](https://github.com/a0v0/a0v0)
 - 🌱 Projects:
   - [aVToolz](https://github.com/avtoolz/avtoolz)
   - [Ball-O-Mania](https://github.com/a0v0/Ball-O-Mania)
